@@ -4,10 +4,11 @@ This repository contains an example of how to use AWS Batch for batch processing
 ## Requirements
 In order to run this example, you will need the following:
 
-## An AWS account
-Terraform installed on your computer
-Basic knowledge of AWS Batch and Terraform
-Terraform Module for Resource Creation
+- An AWS account
+- Terraform installed on your computer
+- Basic knowledge of AWS Batch and Terraform
+
+## Terraform Module for Resource Creation
 The Terraform module in this repository is used to create the necessary AWS Batch resources for this example. The module creates the following resources:
 
 - Compute Environment
